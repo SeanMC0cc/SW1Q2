@@ -1,0 +1,27 @@
+.table {
+    background-color: rgb(125, 171, 212);
+    text-align: center;
+}
+tr {
+    text-align: center;
+    background-color: rgb(150, 234, 234);
+}
+h1 {
+    text-align: center;
+    color: rgba(98, 202, 98, 0.748);
+}
+body {
+    background-image: url(PVZ.webp);
+}
+
+.header h1 {
+	text-align: center;
+	color: #d5a6a6;
+	background-color: #508363;
+	font-family: Sofadi One Static
+}
+.header {
+	padding: 20px;
+	margin: 25px;
+	text-align: center;
+}
